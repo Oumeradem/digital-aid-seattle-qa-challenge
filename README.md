@@ -25,4 +25,5 @@
 
 ## Testing Approach
 
-Exploratory and functional manual testing was used to evaluate the Random Date Generator tool at codebeautify.org. Testing focused on input validation, date format outputs, boundary conditions, and usability.
+Exploratory and functional manual testing was used to evaluate the Random Date Generator tool at codebeautify.org. 
+Testing focused on input validation, date format outputs, boundary conditions, and usability.
